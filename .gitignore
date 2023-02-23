@@ -1,0 +1,4 @@
+.venv/
+setup.py
+dist/
+*.egg-info
