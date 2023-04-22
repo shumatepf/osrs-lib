@@ -23,8 +23,8 @@ import asyncio
 import aiohttp
 import logging
 
-from errors import BadHiScoresPage
-import utils
+from osrs_lib.errors import BadHiScoresPage
+from osrs_lib import utils
 
 
 def get_stats(users):
